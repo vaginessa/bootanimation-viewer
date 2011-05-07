@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BootAnimationViewer</string>
+	<string name="label_size">File Size</string>
+	<string name="label_width">Width</string>
+	<string name="label_height">Height</string>
+	<string name="label_fps">FPS</string>
+	<string name="label_part_count">Count</string>
+	<string name="label_part_pause">Pause</string>
+	<string name="label_part_frames">Frames</string>
+	<string name="label_button_preview">Preview</string>
+	<string name="label_button_use">Use</string>
+</resources>
