@@ -1,4 +1,4 @@
-package info.dourok.tools;
+package info.dourok.bootanimation;
 
 import java.io.IOException;
 import java.util.zip.ZipException;
@@ -34,7 +34,7 @@ public class BootAnimationView extends View implements Runnable{
 		cTop =(getHeight() - animation.getHeight()) /2;
 		cLeft = (getWidth()  - animation.getWidth())/2;
 		bootAnimation = animation;
-		bootAnimation.parseDesc();
+//		bootAnimation.parseDesc();
 	}
 	
 	public void start(){

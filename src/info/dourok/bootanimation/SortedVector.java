@@ -1,4 +1,4 @@
-package info.dourok.tools;
+package info.dourok.bootanimation;
 
 import java.util.Random;
 import java.util.Vector;
